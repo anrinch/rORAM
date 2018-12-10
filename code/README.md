@@ -1,6 +1,6 @@
 # RangeORAM
 
-This is the implementation of locality-preserving range ORAMs as proposed in "rORAM: Efficient Range ORAM with O (log 2 N ) Locality", to appear at Network and Distributed System Security (NDSS) 2019.
+This is the implementation of locality-preserving range ORAMs as proposed in "rORAM: Efficient Range ORAM with O (log2N) Locality", to appear at Network and Distributed System Security (NDSS) 2019.
 
 The code base is a fork of the original work by Bindschaedler et al. (http://seclab.soic.indiana.edu/curious/) and extends the framework to support locality-preserving range ORAMs. 
 
