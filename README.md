@@ -4,7 +4,7 @@ The code base is a fork of the original work by Bindschaedler et al. (http://sec
 
 To run and evaluate our range ORAM implementation 
 
-1. Run the compile script in ./code/
+1. Run the compile script inside ./code/
 2. To run experiments, use 
   
   ./run.sh <working_directory> <number_of_queries> RangeORAMRec LocalStorageSingleFile <max_range_size> <range_query_size_to_test>
